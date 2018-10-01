@@ -1,0 +1,12 @@
+如何直接访问github的html项目？
+
+1、进入仓库
+
+2、点击index.html进入，复制最上面地址栏网址
+
+3、在地址前加htmlpreview.github.io/?就可以访问了
+
+
+原文地址：https://segmentfault.com/a/1190000005153433
+
+
